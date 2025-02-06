@@ -1,17 +1,19 @@
+/* Set background color */
 body{
     background-color: beige;
 }
-
+/* Style the header */
 header{
     text-align: center;
     font-family: fantasy;
     background-color: gray;
     -webkit-text-stroke-color: whitesmoke;
 }
-
+/* Style h2 elements */
 h2{
     text-align: center;
 }
+/* Style paragraphs */
 p{
     text-align: center;
     font-family: fantasy;
